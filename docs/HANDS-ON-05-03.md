@@ -542,4 +542,4 @@ def flaky_task(**context):
 | **5.2** | Pipeline ML end-to-end com XCom |
 | **5.3** | Retry, timeout, alertas, schedule, idempotência |
 
-**Próxima aula:** Versionamento de dados (DVC) e Data Quality (Great Expectations) 📊
+**Próxima aula:** Reprodutibilidade e Qualidade do Código 📊
