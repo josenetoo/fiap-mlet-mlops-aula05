@@ -1,6 +1,6 @@
 # Aula 05 - Orquestração com Apache Airflow
 
-> **Repositório**: https://github.com/josenetoo/fiap-ml-aula05
+> **Repositório**: https://github.com/josenetoo/fiap-mlet-mlops-aula05
 
 ## 🎯 Objetivo
 
